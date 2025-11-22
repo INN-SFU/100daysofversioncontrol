@@ -1,6 +1,6 @@
 # 👋 Welcome to the INN 100 days of version control challenge repository!
 
-You're already a version control here for being here!
+You're already a version control hero for being here!
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVmaW80OTFudHd1Mjl3a3QxdG5nY2FscXJ5bmdxMHZoaGRmOHhzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gg9LCtsjjBninkG52i/giphy.gif)
 
