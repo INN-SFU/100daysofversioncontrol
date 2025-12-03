@@ -52,8 +52,11 @@ Notes:
 ### November 26, 2025
 
 Commits: all of these commits were part of this reporsitory used only for training: https://github.com/vcarriqu/Workshop_Neuro802.git
+
 -created GitHub training.m f7d62a8
+
 -creted READ_ME_file_MSE_code.txt 735cc90
+
 -changed the name of READ_ME_file_MSE_code.txt to README_GitHub_Training.txt 1f86879
 
 
