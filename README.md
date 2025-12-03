@@ -14,6 +14,8 @@ We have a set of challenges for you to complete. Each of them will have a specif
 
 The challenge issues will have the tag "challenge", and you can use this to filter only the challenge issues on the issues page.
 
+**You should use your own project repository to complete the challenges**. We do give some slack to use this repo if you really need to, though.
+
 #### Prizes contest 🏆
 
 Each prize will also have its specific issue, tagged as "contest". To submit an entry, comment on the corresponding issue with links and screenshots. Participants will be able to upvote or downvote your submission using the reactions feature, and this may or may not be a factor for you to win. 
