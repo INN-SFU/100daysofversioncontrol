@@ -1,6 +1,6 @@
 # 📘 Daily Changelog VictoriaC (Nov 25, 2025 → Mar 5, 2026)
 
-*Anonymous Contributor*
+*Contributor: Victoria*
 `https://github.com/Translational-Neuroscience-Lab/TBI.git` - add the link to your project's repository here
 
 Each day contains:
@@ -51,22 +51,25 @@ Notes:
 
 ### November 26, 2025
 
-Commits:
+Commits: all of these commits were part of this reporsitory used only for training: https://github.com/vcarriqu/Workshop_Neuro802.git
+-created GitHub training.m f7d62a8
+-creted READ_ME_file_MSE_code.txt 735cc90
+-changed the name of READ_ME_file_MSE_code.txt to README_GitHub_Training.txt 1f86879
 
-Pull Requests:
 
-Issues Created:
-
-Notes:
-
-### November 27, 2025
+### November 28, 2025
 
 Commits:
+-Added a branch and a message in README file d37ae59
+-Renamed README_GitHub_Training.txt to README_GitHub_Training.md 0469612
+-Changed file name f3dc4b3
+-Merge branch 'main' into victoria_branch c569145
 
 Pull Requests:
+-Merge pull request #1 from vcarriqu/victoria_branch f129322 - (merged)
 
-Issues Created:
+### December 2, 2025
 
-Notes:
-
-...
+Commits: 
+-Created new branch with edits in this file 6fcbd55
+-Edited this file to add my previous activity 
