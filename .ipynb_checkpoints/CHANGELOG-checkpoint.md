@@ -1,7 +1,7 @@
 # 📘 Daily Changelog Template (Nov 25, 2025 → Mar 5, 2026)
 
-**Contributor:** Masoumeh Golmohammadian  
-**Repository:** [SBI-supported simulations of Cam-CAN](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN)
+*Anonymous Contributor*
+`repository link` - add the link to your project's repository here
 
 Each day contains:
 * Commits
@@ -39,18 +39,7 @@ Anything extra worth recording
 
 ## 📅 Daily Sections
 
-### December 4, 2025
-
-* Commits:
-  * Update changelog.md: add contributor and repository link - [2e5a214](https://github.com/INN-SFU/100daysofversioncontrol/commit/2e5a2146be35fa4feacb6f0210931a18701ecf95)
-
-Pull Requests:
-
-Issues Created:
-
-Notes: Create my branch (CHANGELOG/Masoumeh)
-
-### December 5, 2025
+### November 25, 2025
 
 Commits:
 
@@ -60,7 +49,17 @@ Issues Created:
 
 Notes:
 
-### December 6, 2025
+### November 26, 2025
+
+Commits:
+
+Pull Requests:
+
+Issues Created:
+
+Notes:
+
+### November 27, 2025
 
 Commits:
 
