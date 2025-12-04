@@ -1,7 +1,7 @@
 # 📘 Daily Changelog Template (Nov 25, 2025 → Mar 5, 2026)
 
-*Anonymous Contributor*
-`repository link` - add the link to your project's repository here
+**Contributor:** Masoumeh Golmohammadian  
+**Repository:** [SBI-supported simulations of Cam-CAN](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN)
 
 Each day contains:
 * Commits
