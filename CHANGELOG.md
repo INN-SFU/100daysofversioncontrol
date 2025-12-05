@@ -58,7 +58,8 @@ Pull Requests:
 
 Issues Created:
 
-Notes:
+* Notes:
+  * Add a new branch in my project repository for extracting statistical features. its name is add-summary-statistics. 
 
 ### December 6, 2025
 
