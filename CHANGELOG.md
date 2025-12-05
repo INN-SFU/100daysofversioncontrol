@@ -39,15 +39,15 @@ Anything extra worth recording
 
 ## 📅 Daily Sections
 
-### November 25, 2025
+### December 04, 2025
 
-Commits:
+Commits: Commited the beginning of the new story on our story repository.
 
 Pull Requests:
 
 Issues Created:
 
-Notes:
+Notes: Created new repository for our new story!
 
 ### November 26, 2025
 
