@@ -41,34 +41,43 @@ Anything extra worth recording
 
 ### December 4, 2025
 
-* Commits:
-  * Update changelog.md: add contributor and repository link - [2e5a214](https://github.com/INN-SFU/100daysofversioncontrol/commit/2e5a2146be35fa4feacb6f0210931a18701ecf95)
+**Commits:**
+- Update changelog.md: add contributor and repository link - [2e5a214](https://github.com/INN-SFU/100daysofversioncontrol/commit/2e5a2146be35fa4feacb6f0210931a18701ecf95)
 
-Pull Requests:
+**Pull Requests:**
+- None
 
-Issues Created:
+**Issues Created:**
+- None
 
-Notes: Create my branch (CHANGELOG/Masoumeh)
+**Notes:**
+- Created my branch `CHANGELOG/Masoumeh`
 
 ### December 5, 2025
 
-Commits:
+**Commits:**
+- None
 
-Pull Requests:
+**Pull Requests:**
+- None
 
-Issues Created:
+**Issues Created:**
+- None
 
-* Notes:
-  * Created branch `add-summary-statistics` in my project repository for extracting statistical features. 
+**Notes:**
+- Created branch `add-summary-statistics` in my project repository for extracting statistical features
 
 ### December 6, 2025
 
-Commits:
+**Commits:**
+- Add Theta_X.ipynb to extract theta and X from simulation results
 
-Pull Requests:
+**Pull Requests:**
+- None yet
 
-Issues Created:
+**Issues Created:**
+- None yet
 
-Notes:
-
-...
+**Notes:**
+- Extracted theta (column 2) and X (columns 8-10) from sub-0001_simulation_results.txt
+- Saved arrays in sub-0001_theta_X.npz for VBI/MAF training
