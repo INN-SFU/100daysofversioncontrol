@@ -70,7 +70,22 @@ Anything extra worth recording
 ### December 6, 2025
 
 **Commits:**
-- Add Theta_X.ipynb to extract theta and X from simulation results
+- Add Theta_X.ipynb to extract theta and X from simulation results [b29dbc6](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/b29dbc66193d5bfe3a807fcbc66e07a67ca13dca)
+
+**Pull Requests:**
+- None yet
+
+**Issues Created:**
+- None yet
+
+**Notes:**
+- Extracted theta (column 2) and X (columns 8-10) from sub-0001_simulation_results.txt
+- Saved arrays in sub-0001_theta_X.npz for VBI/MAF training
+
+### December 7, 2025
+
+**Commits:**
+- Add Theta_X.ipynb to extract theta and X from simulation results [b29dbc6](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/b29dbc66193d5bfe3a807fcbc66e07a67ca13dca)
 
 **Pull Requests:**
 - None yet
