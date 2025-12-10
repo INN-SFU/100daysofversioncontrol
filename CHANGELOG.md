@@ -85,7 +85,7 @@ Anything extra worth recording
 ### December 7, 2025
 
 **Commits:**
-- Update parameter ranges for simulations [8b46f54](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/8b46f540b5d48e6fc5a37bec8a878985a4b6a40c)
+- Updated parameter ranges for simulations [8b46f54](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/8b46f540b5d48e6fc5a37bec8a878985a4b6a40c)
 
 **Pull Requests:**
 - None yet
@@ -98,7 +98,7 @@ Anything extra worth recording
 ### December 8, 2025
 
 **Commits:**
-- Added a file to the main branch and created a new branch [5f5ac79](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/5f5ac790011debe8c70e5d656ff76840e56e6023)
+- Added a file to the main branch  [d6ef242](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/d6ef24202493e39a2c8965c226bd29723e103b22) and created a new branch [5f5ac79](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/5f5ac790011debe8c70e5d656ff76840e56e6023)
 
 **Pull Requests:**
 - None yet
@@ -108,4 +108,15 @@ Anything extra worth recording
 
 **Notes:**
 
+### December 9, 2025
 
+**Commits:**
+- Added a code file to the main branch  [9456d06](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/9456d06cc981f22d4f23d3cf9e8889724b1ec306)
+
+**Pull Requests:**
+- None yet
+
+**Issues Created:**
+- None yet
+
+**Notes:**
