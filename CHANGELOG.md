@@ -72,12 +72,6 @@ Anything extra worth recording
 **Commits:**
 - Add Theta_X.ipynb to extract theta and X from simulation results [b29dbc6](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/b29dbc66193d5bfe3a807fcbc66e07a67ca13dca)
 
-**Pull Requests:**
-- None yet
-
-**Issues Created:**
-- None yet
-
 **Notes:**
 - Extracted theta (column 2) and X (columns 8-10) from sub-0001_simulation_results.txt
 - Saved arrays in sub-0001_theta_X.npz for VBI/MAF training
@@ -86,37 +80,24 @@ Anything extra worth recording
 
 **Commits:**
 - Updated parameter ranges for simulations [8b46f54](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/8b46f540b5d48e6fc5a37bec8a878985a4b6a40c)
-
-**Pull Requests:**
-- None yet
-
-**Issues Created:**
-- None yet
-
-**Notes:**
+  
 
 ### December 8, 2025
 
 **Commits:**
 - Added a file to the main branch  [d6ef242](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/d6ef24202493e39a2c8965c226bd29723e103b22) and created a new branch [5f5ac79](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/5f5ac790011debe8c70e5d656ff76840e56e6023)
 
-**Pull Requests:**
-- None yet
-
-**Issues Created:**
-- None yet
-
-**Notes:**
 
 ### December 9, 2025
 
 **Commits:**
 - Added a code file to the main branch  [9456d06](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/9456d06cc981f22d4f23d3cf9e8889724b1ec306)
+  
 
-**Pull Requests:**
-- None yet
+### December 10 & 11, 2025
 
-**Issues Created:**
-- None yet
+**Commits:**
+- Updated a code file in the main branch [645b50e](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/645b50e391f61932335bf022f4c6517dc8c04cfa)
 
-**Notes:**
+
+
