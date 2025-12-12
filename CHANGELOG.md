@@ -73,10 +73,10 @@ Notes:
 
 ### December 12, 2025: 
 
-Commits: 
+Commits: Created repository called "100 days of Steph" and committed creation of hollyjolly.txt
 
 Pull Requests: 
 
-Issues Created: 
+Issues Created: #1, started a thread on the Issues page for the 5 days in a row
 
 Notes: Accidentally forgot to switch to my branch instead of the main branch. Woo hoo I started the challenge!
