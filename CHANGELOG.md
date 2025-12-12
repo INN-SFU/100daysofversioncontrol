@@ -70,3 +70,13 @@ Issues Created:
 Notes:
 
 ...
+
+### December 12, 2025: 
+
+Commits: 
+
+Pull Requests: 
+
+Issues Created: 
+
+Notes: Accidentally forgot to switch to my branch instead of the main branch. Woo hoo I started the challenge!
