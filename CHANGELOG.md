@@ -70,3 +70,16 @@ Issues Created:
 Notes:
 
 ...
+
+### December 12, 2025
+
+Commits: 
+
+Pull Request:
+
+Issues Created: 
+
+Notes: Started the change log this day and started the challenge :)
+ 
+
+
