@@ -39,31 +39,62 @@ Anything extra worth recording
 
 ## 📅 Daily Sections
 
-### November 25, 2025
+### December 04, 2025
 
-Commits:
-
-Pull Requests:
-
-Issues Created:
-
-Notes:
-
-### November 26, 2025
-
-Commits:
+Commits: Commited the beginning of the new story on our story repository.
 
 Pull Requests:
 
 Issues Created:
 
+Notes: Created new repository for our new story!
+
+### December 05, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull requested the story between my branch and main branch.
+
+Issues Created:
+
 Notes:
 
-### November 27, 2025
+### December 06, 2025
 
-Commits:
+Commits: Added 1 line to the 100 days challenge story.
 
-Pull Requests:
+Pull Requests: Pull requested the story between my branch and main branch
+
+Issues Created:
+
+Notes:
+
+
+### December 08, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull requested the story between my branch and main branch
+
+Issues Created:
+
+Notes:
+
+### December 09, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull requested the story between my branch and main branch
+
+Issues Created:
+
+Notes:
+
+### December 10, 2025
+
+Commits: Added 1 line to the 100 days challenge storty.
+
+Pull Requests: Pull requested the story between my branch and main branch
 
 Issues Created:
 
