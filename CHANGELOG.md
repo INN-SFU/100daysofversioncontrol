@@ -100,11 +100,15 @@ Anything extra worth recording
 **Commits:**
 - Updated a code file in the main branch [645b50e](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/645b50e391f61932335bf022f4c6517dc8c04cfa)
 
-### December 12 , 2025
+### December 12, 2025
 
 **Commits:**
-- Updated Analysis folder in the main branch [60a8474](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/645b50e391f61932335bf022f4c6517dc8c04cfa)
+- Updated Analysis folder in the main branch [60a8474](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/60a8474960cfe61cea889a4c7ea08f17b3148c35)
 
+### December 13, 2025
 
+### December 14, 2025
 
- cod
+**Notes:**
+- Deleted the branch add-summary-statistics from the project repository after its changes were no longer needed.
+  
