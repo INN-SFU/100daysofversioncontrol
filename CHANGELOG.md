@@ -111,4 +111,10 @@ Anything extra worth recording
 
 **Notes:**
 - Deleted the branch add-summary-statistics from the project repository after its changes were no longer needed.
+
+### December 15, 2025
+
+**Commits:**
+- Updated the main branch with the latest code and data [6ed62b6](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/6ed62b69acbe32df81569842c64e8f9d235a931c) 
+
   
