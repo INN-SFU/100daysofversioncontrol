@@ -115,6 +115,14 @@ Anything extra worth recording
 ### December 15, 2025
 
 **Commits:**
-- Updated the main branch with the latest code and data [6ed62b6](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/6ed62b69acbe32df81569842c64e8f9d235a931c) 
+- Updated the main branch with the latest code and data [6ed62b6](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/6ed62b69acbe32df81569842c64e8f9d235a931c)
+
+### December 16, 2025
+
+**Commits:**
+- Added all subject IDs organized by their noise levels for easier grouping and analysis [cbc1224](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/cbc122499f08eea09d1c35f78ac0379d2f338fe8)
+
+### December 17, 2025
+
 
   
