@@ -1,7 +1,7 @@
 # 📘 Daily Changelog Template (Nov 25, 2025 → Mar 5, 2026)
 
-*Anonymous Contributor*
-`repository link` - add the link to your project's repository here
+**Contributor:** Masoumeh Golmohammadian  
+**Repository:** [SBI-supported simulations of Cam-CAN](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN)
 
 Each day contains:
 * Commits
@@ -39,34 +39,97 @@ Anything extra worth recording
 
 ## 📅 Daily Sections
 
-### November 25, 2025
+### December 4, 2025
 
-Commits:
+**Commits:**
+- Update changelog.md: add contributor and repository link - [2e5a214](https://github.com/INN-SFU/100daysofversioncontrol/commit/2e5a2146be35fa4feacb6f0210931a18701ecf95)
 
-Pull Requests:
+**Pull Requests:**
+- None
 
-Issues Created:
+**Issues Created:**
+- None
 
-Notes:
+**Notes:**
+- Created my branch `CHANGELOG/Masoumeh`
 
-### November 26, 2025
+### December 5, 2025
 
-Commits:
+**Commits:**
+- None
 
-Pull Requests:
+**Pull Requests:**
+- None
 
-Issues Created:
+**Issues Created:**
+- None
 
-Notes:
+**Notes:**
+- Created branch `add-summary-statistics` in my project repository for extracting statistical features
 
-### November 27, 2025
+### December 6, 2025
 
-Commits:
+**Commits:**
+- Add Theta_X.ipynb to extract theta and X from simulation results [b29dbc6](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/b29dbc66193d5bfe3a807fcbc66e07a67ca13dca)
 
-Pull Requests:
+**Notes:**
+- Extracted theta (column 2) and X (columns 8-10) from sub-0001_simulation_results.txt
+- Saved arrays in sub-0001_theta_X.npz for VBI/MAF training
 
-Issues Created:
+### December 7, 2025
 
-Notes:
+**Commits:**
+- Updated parameter ranges for simulations [8b46f54](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/8b46f540b5d48e6fc5a37bec8a878985a4b6a40c)
+  
 
-...
+### December 8, 2025
+
+**Commits:**
+- Added a file to the main branch  [d6ef242](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/d6ef24202493e39a2c8965c226bd29723e103b22) and created a new branch [5f5ac79](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/5f5ac790011debe8c70e5d656ff76840e56e6023)
+
+
+### December 9, 2025
+
+**Commits:**
+- Added a code file to the main branch  [9456d06](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/9456d06cc981f22d4f23d3cf9e8889724b1ec306)
+  
+
+
+### December 10 & 11, 2025
+
+**Commits:**
+- Updated a code file in the main branch [645b50e](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/645b50e391f61932335bf022f4c6517dc8c04cfa)
+
+### December 12, 2025
+
+**Commits:**
+- Updated Analysis folder in the main branch [60a8474](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/60a8474960cfe61cea889a4c7ea08f17b3148c35)
+
+### December 13, 2025
+
+### December 14, 2025
+
+**Notes:**
+- Deleted the branch add-summary-statistics from the project repository after its changes were no longer needed.
+
+### December 15, 2025
+
+**Commits:**
+- Updated the main branch with the latest code and data [6ed62b6](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/6ed62b69acbe32df81569842c64e8f9d235a931c)
+
+### December 16, 2025
+
+**Commits:**
+- Added all subject IDs organized by their noise levels for easier grouping and analysis [cbc1224](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/cbc122499f08eea09d1c35f78ac0379d2f338fe8)
+
+### December 17, 2025
+
+**Commits:**
+
+- Updated Analysis folder in the main branch [7b80f35](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/7b80f35e2660a16a1b9180b17c0fedcbd071e220)
+
+### December 18, 2025
+
+**Notes:**
+- everal changes were made to prepare the analysis for 20 subjects
+  

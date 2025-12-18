@@ -123,7 +123,16 @@ Anything extra worth recording
 - Added all subject IDs organized by their noise levels for easier grouping and analysis [cbc1224](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/cbc122499f08eea09d1c35f78ac0379d2f338fe8)
 
 ### December 17, 2025
+
 **Commits:**
 
+- Updated Analysis folder in the main branch [7b80f35](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/7b80f35e2660a16a1b9180b17c0fedcbd071e220)
+
+### December 18, 2025
+
+**Notes:**
+- Several changes were made to prepare the analysis for 20 subjects
+
+### December 19, 2025
 
   
