@@ -2,7 +2,7 @@
 name: "[Prize contest] Prize sticker"
 about: Template for sticker contest
 title: "[Prize contest] Prize title"
-labels: "[prize] sticker"
+labels: contest, [prize] sticker
 assignees: ''
 
 ---
