@@ -121,7 +121,7 @@ December 18, 2025
 
 Commits: Added 1 line to the 100 days challenge story.
 
-Pull Requests: Pull requested the story between my brain and main branch
+Pull Requests: Pull requested the story between my branch and main branch
 
 Issues Created: Created an issue for reviewing my daily line of story
 
@@ -129,8 +129,14 @@ December 19, 2025
 
 Commits: Added 1 line to the 100 days challenge story.
 
-Pull Requests: Pull requested the story between my brain and main branch
+Pull Requests: Pull requested the story between my branch and main branch
 
 Notes: Submitted a funny commit message to challenge on GitHub
+
+December 21, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull requested the story between my branch and main branch
 
 ...
