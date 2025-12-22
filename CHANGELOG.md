@@ -133,6 +133,15 @@ Anything extra worth recording
 **Notes:**
 - Several changes were made to prepare the analysis for 20 subjects
 
-### December 19, 2025
+### December 22, 2025
+
+**Commits:**
+
+Create new branch **8-subs** with limited code for 8 subjects
+
+- Essential scripts only
+- Based on commit [db17015](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/db17015e87767317a5a30ced5bfbae35bdeea896)
+
+### December 23, 2025
 
   
