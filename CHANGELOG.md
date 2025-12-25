@@ -142,6 +142,10 @@ Create new branch **8-subs** with limited code for 8 subjects
 - Essential scripts only
 - Based on commit [db17015](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/db17015e87767317a5a30ced5bfbae35bdeea896)
 
-### December 23, 2025
+### December 25, 2025
 
-  
+**Notes:**
+
+- Created branch `40-subs` in the project repository to extend the analysis to up to 40 subjects.[44e095b](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/44e095b598b3a3f9702d9653f6d4773cc3e09055)
+
+### December 26, 2025
