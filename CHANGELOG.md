@@ -144,5 +144,12 @@ December 23, 2025
 
 Commits: Added 1 line to the 100 days challenge story, and deleted some extra lines.
 
-Pull Requests: Pull Requested the story between my branch and main brainch.
+Pull Requests: Pull Requested the story between my branch and main branch.
+
+December 24, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull Requested the story between my branch and main branch.
 ...
+
