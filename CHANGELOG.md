@@ -1,7 +1,7 @@
 # 📘 Daily Changelog Template (Nov 25, 2025 → Mar 5, 2026)
 
 *Taha Yildirim*
-`repository link` - add the link to your project's repository here
+`[repository link](https://github.com/Translational-Neuroscience-Lab/100dayChallengeStory.git)`
 
 Each day contains:
 * Commits
