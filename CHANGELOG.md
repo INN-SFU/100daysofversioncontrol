@@ -148,4 +148,12 @@ Create new branch **8-subs** with limited code for 8 subjects
 
 - Created branch `40-subs` in the project repository to extend the analysis to up to 40 subjects.[44e095b](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/44e095b598b3a3f9702d9653f6d4773cc3e09055)
 
-### December 26, 2025
+### December 27, 2025
+
+**Commits:**
+- Added a code file to the 40-subs branch  [06b84f5](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/06b84f58d53d2eff39fae71d7da018103bb13208)
+
+### December 28, 2025
+
+  
+
