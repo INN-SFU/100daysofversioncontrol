@@ -1,7 +1,7 @@
 # 📘 Daily Changelog Template (Nov 25, 2025 → Mar 5, 2026)
 
-*Anonymous Contributor*
-`repository link` - add the link to your project's repository here
+*Taha Yildirim*
+`[repository link](https://github.com/Translational-Neuroscience-Lab/100dayChallengeStory.git)`
 
 Each day contains:
 * Commits
@@ -147,6 +147,20 @@ Commits: Added 1 line to the 100 days challenge story, and deleted some extra li
 Pull Requests: Pull Requested the story between my branch and main branch.
 
 December 24, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull Requested the story between my branch and main branch.
+
+December 25, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull requested the story between my branch and main branch.
+
+Issues: Created an issue for my daily story line to be reviewed.
+
+December 26, 2025
 
 Commits: Added 1 line to the 100 days challenge story.
 
