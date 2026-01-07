@@ -1,7 +1,7 @@
 # 📘 Daily Changelog Template (Nov 25, 2025 → Mar 5, 2026)
 
-*Anonymous Contributor*
-`repository link` - add the link to your project's repository here
+*Taha Yildirim*
+`[repository link](https://github.com/Translational-Neuroscience-Lab/100dayChallengeStory.git)`
 
 Each day contains:
 * Commits
@@ -39,34 +39,145 @@ Anything extra worth recording
 
 ## 📅 Daily Sections
 
-### November 25, 2025
+### December 04, 2025
 
-Commits:
-
-Pull Requests:
-
-Issues Created:
-
-Notes:
-
-### November 26, 2025
-
-Commits:
+Commits: Commited the beginning of the new story on our story repository.
 
 Pull Requests:
 
 Issues Created:
 
-Notes:
+Notes: Created new repository for our new story!
 
-### November 27, 2025
+### December 05, 2025
 
-Commits:
+Commits: Added 1 line to the 100 days challenge story.
 
-Pull Requests:
+Pull Requests: Pull requested the story between my branch and main branch.
 
 Issues Created:
 
 Notes:
 
+### December 06, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull requested the story between my branch and main branch
+
+Issues Created:
+
+Notes:
+
+
+### December 08, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull requested the story between my branch and main branch
+
+Issues Created:
+
+Notes:
+
+### December 09, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull requested the story between my branch and main branch
+
+Issues Created:
+
+Notes:
+
+### December 10, 2025
+
+Commits: Added 1 line to the 100 days challenge storty.
+
+Pull Requests: Pull requested the story between my branch and main branch
+
+Issues Created:
+
+Notes:
+
+December 14, 2025
+
+Commits: Added 1 line to the 100 days challenge story. Modified a line in the story.
+
+Pull Requests: Pull requested the story between my branch and main branch
+
+Issues Created:
+
+Notes: Added 2 people to the story repo.
+
+
+December 17, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull requested the story between my branch and main branch
+
+December 18, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull requested the story between my branch and main branch
+
+Issues Created: Created an issue for reviewing my daily line of story
+
+December 19, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull requested the story between my branch and main branch
+
+Notes: Submitted a funny commit message to challenge on GitHub
+
+December 21, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull requested the story between my branch and main branch
+
+
+December 23, 2025
+
+Commits: Added 1 line to the 100 days challenge story, and deleted some extra lines.
+
+Pull Requests: Pull Requested the story between my branch and main branch.
+
+December 24, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull Requested the story between my branch and main branch.
+
+December 25, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull requested the story between my branch and main branch.
+
+Issues: Created an issue for my daily story line to be reviewed.
+
+December 26, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull Requested the story between my branch and main branch.
+
+December 30, 2025
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull Requested the story between my branch and main branch.
+
+HAPPY NEW YEAR!!!
+
+January 01, 2026
+
+Commits: Added 1 line to the 100 days challenge story.
+
+Pull Requests: Pull Requested the story between my branch and main branch.
 ...
+
