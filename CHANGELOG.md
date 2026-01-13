@@ -44,25 +44,10 @@ Anything extra worth recording
 **Commits:**
 - Update changelog.md: add contributor and repository link - [2e5a214](https://github.com/INN-SFU/100daysofversioncontrol/commit/2e5a2146be35fa4feacb6f0210931a18701ecf95)
 
-**Pull Requests:**
-- None
-
-**Issues Created:**
-- None
-
 **Notes:**
 - Created my branch `CHANGELOG/Masoumeh`
 
 ### December 5, 2025
-
-**Commits:**
-- None
-
-**Pull Requests:**
-- None
-
-**Issues Created:**
-- None
 
 **Notes:**
 - Created branch `add-summary-statistics` in my project repository for extracting statistical features
@@ -104,8 +89,6 @@ Anything extra worth recording
 
 **Commits:**
 - Updated Analysis folder in the main branch [60a8474](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/60a8474960cfe61cea889a4c7ea08f17b3148c35)
-
-### December 13, 2025
 
 ### December 14, 2025
 
@@ -166,5 +149,5 @@ Create new branch **8-subs** with limited code for 8 subjects
 ### January 13, 2026
 
 **Commits:**
-- - Create Results directory and add outputs  [151ff72](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/151ff724415a047aaaf6da5a61e49a40188459b1)
+- Create Results directory and add outputs  [151ff72](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/151ff724415a047aaaf6da5a61e49a40188459b1)
 
