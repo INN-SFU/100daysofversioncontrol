@@ -163,3 +163,8 @@ Create new branch **8-subs** with limited code for 8 subjects
 **Commits:**
 - Updated according to latest changes and added new files  [63fc5aa](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/63fc5aa0e3a64489e39dffdfa7f04a12bc308172)
 
+### January 13, 2026
+
+**Commits:**
+- - Create Results directory and add outputs  [151ff72](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/151ff724415a047aaaf6da5a61e49a40188459b1)
+
