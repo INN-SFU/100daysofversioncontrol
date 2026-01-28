@@ -161,3 +161,9 @@ Create new branch **8-subs** with limited code for 8 subjects
 **Notes:**
 - Prepared a report for the project.
 
+### January 28, 2026
+
+**Notes:**
+- Faced a Git push authentication error caused by deprecated password-based authentication on GitHub.
+
+
