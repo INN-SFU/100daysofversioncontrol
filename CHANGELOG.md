@@ -165,5 +165,10 @@ Create new branch **8-subs** with limited code for 8 subjects
 
 **Notes:**
 - Faced a Git push authentication error caused by deprecated password-based authentication on GitHub.
+- 
+### March 3, 2026
+
+**Commits:**
+- Updated according to latest changes and added new files  [96a0b3a](https://github.com/MGolmohamadian/SBI-supported-simulations-of-Cam-CAN/commit/96a0b3a0ad80465e6013cb50a2fe0802d55f75ae)
 
 
